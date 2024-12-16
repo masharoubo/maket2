@@ -1,0 +1,62 @@
+.people {
+    max-width: 1170px;
+    margin: auto;
+}
+.wrap-people {
+    padding-top: 114px;
+    padding-bottom: 114px;
+    display: flex;
+    justify-content: space-between;
+}
+.wrap-card {
+    width: 270px;
+
+}
+.img-people {
+
+}
+.img-people img {
+    width: 270px;
+    height: 270px;
+}
+.card-title-people {
+    padding-top: 30px;
+    font-family: 'Raleway', sans-serif ;
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: capitalize;
+    color: #2D3033;
+}
+.card-title-orange {
+    padding-top: 5px;
+    font-family: 'Raleway', sans-serif ;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #FF4343;
+}
+.card-text-people {
+    padding-top: 18px;
+    font-family: 'Raleway', sans-serif ;
+    font-size: 18px;
+    font-weight: 400;
+    color: #6C7279;
+}
+.people-icons {
+    padding-top: 38px;
+    width: 128px;
+    font-size: 35px;
+    font-weight: 400;
+    color: #C6CBCD;
+    display: flex;
+    justify-content: space-between;
+
+}
+.fa-brands {
+}
+.fa-square-facebook {
+}
+.fa-square-twitter {
+}
+.fa-invision {
+}

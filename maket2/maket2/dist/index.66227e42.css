@@ -1,0 +1,57 @@
+.people {
+  max-width: 1170px;
+  margin: auto;
+}
+
+.wrap-people {
+  justify-content: space-between;
+  padding-top: 114px;
+  padding-bottom: 114px;
+  display: flex;
+}
+
+.wrap-card {
+  width: 270px;
+}
+
+.img-people img {
+  width: 270px;
+  height: 270px;
+}
+
+.card-title-people {
+  text-transform: capitalize;
+  color: #2d3033;
+  padding-top: 30px;
+  font-family: Raleway, sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.card-title-orange {
+  text-transform: uppercase;
+  color: #ff4343;
+  padding-top: 5px;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.card-text-people {
+  color: #6c7279;
+  padding-top: 18px;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.people-icons {
+  color: #c6cbcd;
+  justify-content: space-between;
+  width: 128px;
+  padding-top: 38px;
+  font-size: 35px;
+  font-weight: 400;
+  display: flex;
+}
+/*# sourceMappingURL=index.66227e42.css.map */

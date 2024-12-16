@@ -1,0 +1,95 @@
+.header {
+    // height: 747PX;
+    background-image: url(../img/bgBLUE.png);
+    position: relative;
+    background-size: cover; 
+    background-position: center;
+}
+.heder-main {
+}
+.wrap-header {
+    display: flex;
+    justify-content: space-between;
+    // align-items: flex-start;
+}
+.activebox {
+    padding-top: 38px;
+    font-size: 34px;
+}
+.ACTIVE {
+    font-weight: 700;
+    color: #656980;
+}
+.BOX {
+    font-weight: 200;
+    color: #FFFFFF;
+}
+.novegation {
+   
+}
+.novegation-list {
+    margin-top: 36px;
+    display: flex;
+}
+.novegation-list-item {
+    justify-content: space-betweenss
+}
+.novegation-list-item a {
+    padding: 10px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+.line-header {
+    margin-top: 37px;
+    width: 1170px;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BABBC5;
+}
+.wrap-main {
+    padding-top: 129px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+.main-title{
+    font-size: 64px;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+.title-micro {
+    margin: 31px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.wrap-button-header{
+    margin-top: 80px;
+}
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 370px;
+    height: 80px;
+    background-color: #FF4343;
+    transition: transform 0.5s ease;
+    cursor: pointer;
+}
+.button a {
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+.button:hover {
+    background-color: #E71414;
+}
+.button:active {
+    box-shadow: 4px 4px 30px #FF4343;
+    background-color: #FF4343;
+
+}

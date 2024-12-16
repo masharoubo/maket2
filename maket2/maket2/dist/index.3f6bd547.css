@@ -1,0 +1,47 @@
+.minicards {
+  padding-top: 116px;
+  padding-bottom: 116px;
+}
+
+.wrap-minicards {
+  flex-wrap: wrap;
+  place-content: stretch space-between;
+  width: 1170px;
+  height: 717px;
+  margin: auto;
+  display: flex;
+}
+
+.card-minicards {
+  width: 370px;
+}
+
+.img-minicards {
+  justify-content: center;
+  display: flex;
+}
+
+.img-minicards img {
+  width: 100px;
+  height: 100px;
+}
+
+.title-minicards {
+  text-align: center;
+  text-transform: uppercase;
+  color: #000;
+  padding-top: 55px;
+  font-family: Raleway, sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.text-minicards {
+  text-align: center;
+  color: #6c7279;
+  padding-top: 40px;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+/*# sourceMappingURL=index.3f6bd547.css.map */

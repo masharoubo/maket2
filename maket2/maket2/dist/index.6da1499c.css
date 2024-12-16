@@ -1,0 +1,104 @@
+.header {
+  background-image: url("bgBLUE.bc3646fa.png");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.wrap-header {
+  justify-content: space-between;
+  display: flex;
+}
+
+.activebox {
+  padding-top: 38px;
+  font-size: 34px;
+}
+
+.ACTIVE {
+  color: #656980;
+  font-weight: 700;
+}
+
+.BOX {
+  color: #fff;
+  font-weight: 200;
+}
+
+.novegation-list {
+  margin-top: 36px;
+  display: flex;
+}
+
+.novegation-list-item {
+  justify-content: space-betweenss;
+}
+
+.novegation-list-item a {
+  color: #fff;
+  padding: 10px 30px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.line-header {
+  background-color: #babbc5;
+  width: 1170px;
+  height: 1px;
+  margin-top: 37px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrap-main {
+  text-align: center;
+  padding-top: 129px;
+  padding-bottom: 120px;
+}
+
+.main-title {
+  color: #fff;
+  font-size: 64px;
+  font-weight: 900;
+}
+
+.title-micro {
+  color: #fff;
+  margin: 31px;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.wrap-button-header {
+  margin-top: 80px;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #ff4343;
+  justify-content: center;
+  align-items: center;
+  width: 370px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: transform .5s;
+  display: flex;
+}
+
+.button a {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.button:hover {
+  background-color: #e71414;
+}
+
+.button:active {
+  background-color: #ff4343;
+  box-shadow: 4px 4px 30px #ff4343;
+}
+/*# sourceMappingURL=index.6da1499c.css.map */

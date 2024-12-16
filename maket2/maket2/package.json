@@ -1,0 +1,23 @@
+{
+  "name": "maket2",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.2",
+    "concat": "^1.0.3",
+    "http-server": "^14.1.1",
+    "parcel": "^2.13.2",
+    "sass": "^1.82.0"
+  }
+}

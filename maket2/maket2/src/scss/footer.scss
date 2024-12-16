@@ -1,0 +1,60 @@
+.footer {
+    // height: 341px;
+}
+.wrap-footer {
+}
+.light {
+    display: flex;
+    justify-content: space-between;
+    background-color: #353C65;
+    margin: 0 -20px;
+    padding: 67px 171px;
+}
+.footer-title {
+    font-family: 'Raleway', sans-serif ;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #fff;
+}
+.footer-text-big {
+    padding-top: 29px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+.footer-icons-big {
+    padding-top: 48px;
+    font-size: 35px;
+    font-weight: 400;
+    color: #C6CBCD;
+    display: flex;
+    justify-content: space-between;
+
+}
+.bold {
+    // height: 90px;
+    justify-content: space-between;
+    background-color: #2C3154;
+    margin: 0 -20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.Copyright {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #808080;
+
+}
+.Kamal {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+.colomn-footer {
+    
+    max-width: 370px;
+    text-align: center;
+}

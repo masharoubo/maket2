@@ -1,0 +1,43 @@
+.project {
+    padding-left: -16px;
+    padding-right: -16px;
+    height: 678px;
+    
+}
+
+.container-project {
+    max-width: 1510px;
+    margin: auto;
+    padding: -15px 15px;
+
+}
+.wrap-project {
+    width: 1510px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: -15px 0px;
+}
+
+.img-progect {
+    position: relative;
+    overflow: hidden;
+    height: 340px;
+    cursor: pointer;
+}
+    
+.img-progect img {
+    width: 377.5px;
+    height: 340px;
+}
+
+.img-progect::after{
+    content: "";
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.5);
+    opacity: 0;
+    transition: transform 0.5s ease;
+}
+
+.img-progect:hover ::after{
+    opacity: 1;
+}
